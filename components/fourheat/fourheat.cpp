@@ -9,7 +9,7 @@ static const char *const TAG = "fourheat";
 
 static const uint16_t TX_THROTTLE = 10;
 static const uint16_t RX_TIMEOUT = 100;
-static const uint16_t RESPONSE_TIMEOUT = 300;
+static const uint16_t RESPONSE_TIMEOUT = 3000;
 static const uint16_t RETRY_THROTTLE = 1000;
 static const uint8_t MAX_RETRY_COUNT = 3;
 
